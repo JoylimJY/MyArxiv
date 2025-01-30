@@ -1,4 +1,4 @@
-let titles = ["Education","Educational","Presentation","Personalize","Personalization","Learning","Tutorial","Tutoring","Tutor","Adaptive","RAG","Multi-agent","Agent","Agents","Agentic","Simulation","Collaboration","Dialogue"];
+let titles = ["Education","Presentation","Personaliz","Tutor","Adaptive","RAG","Multi-agent","Agent","Simulat","Collaborat","Dialogue","Human","Student","Course","Retriev","Rerank"];
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
 let conferences = [
