@@ -1,7 +1,4 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["GPT", "Transformer"];
-let titles_method = ["Education","Personalize","Personalization","RAG","Multi-agent","Agent"];
-let titles =  titles_model + titles_method + titles_type;
+let titles = ["Education","Educational","Presentation","Personalize","Personalization","Learning","Tutorial","Tutoring","Tutor","Adaptive","RAG","Multi-agent","Agent","Agents","Agentic","Simulation","Collaboration","Dialogue"];
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
 let conferences = [
